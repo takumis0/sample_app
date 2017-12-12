@@ -1,5 +1,4 @@
 module ApplicationHelper
-<<<<<<< HEAD
 
   # ページ固有のタイトル有無でタイトルの文字列を調整して返す。
   def full_title(page_title)
@@ -27,6 +26,3 @@ module ApplicationHelper
   end
   
 end
-=======
-end
->>>>>>> origin/master
